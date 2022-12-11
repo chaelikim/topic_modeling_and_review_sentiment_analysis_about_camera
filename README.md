@@ -75,7 +75,7 @@
     - 2차 : 카메라의 성능과 관련없는 단어를 불용어로 판단하여 추가 제거 
 <img src="https://user-images.githubusercontent.com/83712521/206904554-7fb0fbc3-eba8-43ab-acf1-038b90df15fb.png" width="200" height="200">
 - 데이터 시각화 (matplotlib, seaborn, plotly)
-- 
+
 #### (2) 모델 핸들링
 - 형태소 분석기
     - OKT, Mecab이용 토큰화 및 품사 태깅 (명사, 형용사, 부사)
